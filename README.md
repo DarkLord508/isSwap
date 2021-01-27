@@ -5,7 +5,7 @@
 The explosive growth in deep fake video and its undetected use is a major threat to democracy, justice, and public trust. Due to this there is a increased the demand for fake video analysis, detection and intervention
 Our project is aimed at overcoming the given challenge by providing a fast and reliable method to determine the authenticity of  a given video.</p>
 
-<h4> TOOLS and TECHNOLOGIES USED</h4>
+<h4><b><u> TOOLS and TECHNOLOGIES USED </u></b></h4>
 <ul>
   <li>Programming Language</li>
     <ul>
