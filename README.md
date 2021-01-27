@@ -1,6 +1,6 @@
 <h2>isSwap</h2>
 <h3>Deep Fake Detection</h3>
-<img src="https://github.com/aakriti1318/isSwap/blob/main/isSwap.jpg" alt="isSwap" width="600" height="400">
+<img src="https://github.com/aakriti1318/isSwap/blob/main/isSwap.jpg" alt="isSwap" width="900" height="400">
 <p> In this era of technology the intake of information through digital media has grown exponentially and it has provided people with personal motives to spread falsified information specially during elections to create political unrest among the masses or simply to spread a rumor.
 The explosive growth in deep fake video and its undetected use is a major threat to democracy, justice, and public trust. Due to this there is a increased the demand for fake video analysis, detection and intervention
 Our project is aimed at overcoming the given challenge by providing a fast and reliable method to determine the authenticity of  a given video.</p>
