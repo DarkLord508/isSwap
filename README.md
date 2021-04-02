@@ -36,6 +36,7 @@
       <li>Tensorflow</li>
       <li>Scikit Learn</li>
       <li>OpenCV</li>
+  </ul>
     <li>IDE</li>
     <ul>
     <li>Google Colab</li>
