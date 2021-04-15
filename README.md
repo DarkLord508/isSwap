@@ -15,7 +15,7 @@
 <p>
 <img src = "https://github.com/aakriti1318/isSwap/blob/main/Algo.jpeg" alt="isSwap" width="900" height="400">
 </p>
-<h4><b><u> TOOLS and TECHNOLOGIES USED </u></b></h4>
+<h2><b><u> Tools and Technologies Used </u></b></h2>
 <ul>
   <li>Programming Language</li>
     <ul>
@@ -51,3 +51,8 @@
       <li>Jupyter Notebook</li>
     </ul>
 </ul>
+<h2> Research Paper </h2>
+<p>
+  Refer to the research paper for indepth intuition of the project. 
+  <a href = "https://github.com/aakriti1318/isSwap/blob/main/IsSwap%20Research%20Paper.pdf"> IsSwap? </a>
+</p>
