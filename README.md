@@ -7,6 +7,14 @@
 <h2> Objective </h2>
 <p> isSwap? attempts to protect people from believing in false information which is being spread through these deep-fakes by identifying such videos using different tools and technology. It is a web application which uses deep learning techniques to achieve its goal which is to help the user determine the authenticity of a given video. 
 </p>
+<h2> System Design </h2>
+<p>
+<img src = "https://github.com/aakriti1318/isSwap/blob/main/System.jpeg" alt="isSwap" width="900" height="400">
+</p>
+<h2> Algorithm Design </h2>
+<p>
+<img src = "https://github.com/aakriti1318/isSwap/blob/main/Algo.jpeg" alt="isSwap" width="900" height="400">
+</p>
 <h4><b><u> TOOLS and TECHNOLOGIES USED </u></b></h4>
 <ul>
   <li>Programming Language</li>
@@ -24,7 +32,7 @@
     <ul>
       <li>Convolutional Neural Network (CNN)</li>
       <li>Recurrent Neural Network (RNN) </li>
-        <li>Long Short Term Memory(LSTM) </li>
+      <li>Long Short Term Memory(LSTM) </li>
     </ul>
   <li>Libraries</li>
     <ul>
@@ -39,8 +47,7 @@
   </ul>
     <li>IDE</li>
     <ul>
-    <li>Google Colab</li>
-        <li>Jupyter Notebook</li>
+      <li>Google Colab</li>
+      <li>Jupyter Notebook</li>
     </ul>
 </ul>
-
